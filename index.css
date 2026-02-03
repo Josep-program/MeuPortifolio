@@ -36,6 +36,7 @@
     width: 26cm;
     height: 15cm;
     background-color: aliceblue;
+    
 }
 .part2{
     border: 3px solid purple;
@@ -44,3 +45,130 @@
     background-color: rgb(99, 170, 13);
     border-radius: 500px;
 }
+
+.conteudonumber2{
+    margin-top: 2cm;
+    width: auto;
+    height: 15cm;
+    background-color: aliceblue;
+    display: flex;
+}
+
+.conteudo2part1{
+ 
+ width: 15.6cm;
+ height: 15cm;
+ background-color: aliceblue;
+}
+
+.conteudo2part2{
+
+width: 26cm;
+height: 15cm;
+background-color: aliceblue;
+}
+
+.conteudonumber3{
+    width: auto;
+    height: 15cm;
+    background-color: aliceblue;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+
+    
+    
+}
+
+
+.conteudo3conteudo1{
+     padding: 0;
+    margin: 0;
+    display: flex;
+    column-gap: 6cm;
+    flex-direction: row;
+    padding-bottom: 30px;
+}
+
+
+.conteudo3part1{
+ border: 3px solid transparent;
+ border-radius: 25px;
+ background-color: rgb(158, 164, 170);
+ width: 8cm;
+ height: 5cm;
+}
+
+.conteudo3part2{
+ border: 3px solid transparent;
+ border-radius: 25px;
+ background-color: rgb(158, 164, 170);
+ width: 8cm;
+ height: 5cm;
+}
+
+.conteudo3part3{
+ border: 3px solid transparent;
+ border-radius: 25px;
+ background-color: rgb(158, 164, 170);
+ width: 8cm;
+ height: 5cm;
+}
+
+
+.conteudo3conteudo2{
+    
+ 
+    display: flex;
+      column-gap: 6cm;
+    flex-direction: row;
+}
+
+
+.conteudo3part4{
+     border: 3px solid transparent;
+ border-radius: 25px;
+ background-color: rgb(158, 164, 170);
+ width: 8cm;
+ height: 5cm;
+}
+
+.conteudo3part5{
+ border: 3px solid transparent;
+ border-radius: 25px;
+ background-color: rgb(158, 164, 170);
+ width: 8cm;
+ height: 5cm;
+}
+
+.conteudo3part6{
+     border: 3px solid transparent;
+ border-radius: 25px;
+ background-color:rgb(158, 164, 170);
+ width: 8cm;
+ height: 5cm;
+}
+
+
+.test1{
+    padding: 0;
+    margin: 0;
+   
+   
+    width: 8cm;
+    border: red solid 2px;
+    height: 3.5cm;
+    border-radius: 25px;
+    border-bottom: 2px solid black;
+}
+.test2{
+     width: 8cm;
+    border: blue solid 2px;
+    height: 1.5cm;
+    text-align: center;
+    margin-top: 0.4cm;
+}
+
